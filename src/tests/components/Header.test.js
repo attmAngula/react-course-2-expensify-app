@@ -9,5 +9,5 @@ test('should render Header correctly', () => {
     //expect(wrapper.find('h1').text()).toBe('Expensify');
     // const renderer = new ReactShallowRenderer();
     // renderer.render(<Header />);
-    // expect(renderer.getRenderOutput()).toMatchSnapshot();
+    // expect(renderer.getRenderOutput()).toMatchSnapshot(); 
 }); 
